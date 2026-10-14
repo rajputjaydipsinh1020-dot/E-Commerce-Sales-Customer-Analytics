@@ -1,0 +1,3 @@
+SHOW DATABASES;
+USE ecommerce_project;
+SELECT DATABASE();
